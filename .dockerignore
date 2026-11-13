@@ -1,6 +1,4 @@
 node_modules
 dist
 *.html
-*.json
-!package*.json
 .git
