@@ -1,0 +1,272 @@
+[
+  {
+    "date": "2026-11-14",
+    "time": "10:00",
+    "home": "SC Union 06 III",
+    "away": "Kinderfestival",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": ""
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10:00",
+    "home": "SC Union 06 III - Kinderfestival",
+    "away": "FSV Berolina Stralau U8 II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/fsv-berolina-stralau-u8-ii/-/staffel/031I0OOEPC00000FVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10:00",
+    "home": "SC Union 06 III - Kinderfestival",
+    "away": "SC Union 06 IV",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sc-union-06-iv/-/staffel/031I0OOEPC00000FVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10:00",
+    "home": "SC Union 06 III - Kinderfestival",
+    "away": "SC Union 06 III",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sc-union-06-iii/-/staffel/031I0OOEPC00000FVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10:00",
+    "home": "SC Union 06 III - Kinderfestival",
+    "away": "FSV Hansa 07 V",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/fsv-hansa-07-v/-/staffel/031I0OOEPC00000FVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10:00",
+    "home": "SC Union 06 III - Kinderfestival",
+    "away": "BSV Victoria Friedrichshain IV",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/bsv-victoria-friedrichshain-iv/-/staffel/031I0OOEPC00000FVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "11:00",
+    "home": "Berliner AK U12",
+    "away": "SC Borsigwalde II",
+    "competition": "Landesklasse",
+    "complex": "Kunstrasenplatz, Poststadion KR4 (Jana-Lange-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR4",
+    "url": "https://www.fussball.de/spiel/berliner-ak-u12-sc-borsigwalde-ii/-/spiel/031G065BEK000000VS5489BUVSJ4CRAP"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00",
+    "home": "Berliner AK U16",
+    "away": "BFC Preussen",
+    "competition": "Landesfreundschaftsspiele",
+    "complex": "Kunstrasenplatz, Poststadion KR1 (Mete-Eksi-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR1",
+    "url": "https://www.fussball.de/spiel/berliner-ak-u16-bfc-preussen/-/spiel/032K18Q02C000000VS5489BTVSIO88SN"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00",
+    "home": "SC Union 06 Berlin",
+    "away": "SG Laterne",
+    "competition": "Landesliga Freizeit/Betrieb",
+    "complex": "Kunstrasenplatz, Poststadion KR3 (Hatun-Sürücü-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR3",
+    "url": "https://www.fussball.de/spiel/sc-union-06-berlin-sg-laterne/-/spiel/031FVLJNF4000000VS5489BTVVG7L386"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00",
+    "home": "SC Union 06 U11 III",
+    "away": "Kinderfestival",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": ""
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00",
+    "home": "SC Union 06 U11 III - Kinderfestival",
+    "away": "Sporting Club Horus U11",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sporting-club-horus-u11/-/staffel/031MBRMM08000000VS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00",
+    "home": "SC Union 06 U11 III - Kinderfestival",
+    "away": "SC Union 06 U11 III",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sc-union-06-u11-iii/-/staffel/031MBRMM08000000VS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00",
+    "home": "SC Union 06 U11 III - Kinderfestival",
+    "away": "SC Berliner Amateure U11 II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sc-berliner-amateure-u11-ii/-/staffel/031MBRMM08000000VS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "14:00",
+    "home": "Berolina Mitte III",
+    "away": "Köpenicker FC",
+    "competition": "Bezirksliga",
+    "complex": "Kunstrasenplatz, Poststadion KR2 (Dalia-Eiyakim-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR2",
+    "url": "https://www.fussball.de/spiel/berolina-mitte-iii-koepenicker-fc/-/spiel/031G0CMNE4000000VS5489BTVVG7L386"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "14:00",
+    "home": "CONO SUR Berlin - offene Liga",
+    "away": "SV Süden 09 - offene Liga III",
+    "competition": "Kreisklasse D",
+    "complex": "Kunstrasenplatz, Poststadion KR3 (Hatun-Sürücü-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR3",
+    "url": "https://www.fussball.de/spiel/cono-sur-berlin--offene-liga-sv-sueden-09--offene-liga-iii/-/spiel/031G09BQAS000000VS5489BUVSJ4CRAP"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "16:00",
+    "home": "Berolina Mitte IV (U23)",
+    "away": "Friedenauer TSC II",
+    "competition": "Bezirksliga",
+    "complex": "Kunstrasenplatz, Poststadion KR2 (Dalia-Eiyakim-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR2",
+    "url": "https://www.fussball.de/spiel/berolina-mitte-iv-u23-friedenauer-tsc-ii/-/spiel/031G0CPFDK000000VS5489BTVVG7L386"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Moabiter FSV II",
+    "away": "SC Charlottenburg",
+    "competition": "Bezirksliga",
+    "complex": "Kunstrasenplatz, Poststadion KR1 (Mete-Eksi-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR1",
+    "url": "https://www.fussball.de/spiel/moabiter-fsv-ii-sc-charlottenburg/-/spiel/031G0CQL7G000000VS5489BUVSJ4CRAP"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II",
+    "away": "Kinderfestival",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": ""
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "SFC Friedrichshain II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sfc-friedrichshain-ii/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "Berliner AK U8",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/berliner-ak-u8/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "Viktoria Mitte U8 II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/viktoria-mitte-u8-ii/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "SG Stern Kaulsdorf II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sg-stern-kaulsdorf-ii/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "CONO SUR",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/cono-sur/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "SC Berliner Amateure IV - U8 II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sc-berliner-amateure-iv--u8-ii/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:00",
+    "home": "Berliner AK U8 II - Kinderfestival",
+    "away": "SK Rapide Berlin II",
+    "competition": "Kinderfußball",
+    "complex": "Unknown",
+    "pitch": "Unknown",
+    "url": "https://www.fussball.de/spieltag/sk-rapide-berlin-ii/-/staffel/031I0OOEPC00000EVS5489BUVVKNMR0J-G"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "12:00",
+    "home": "ASV Berlin",
+    "away": "VfB Berlin 1911 II",
+    "competition": "Kreisliga B",
+    "complex": "Kunstrasenplatz, Poststadion KR3 (Hatun-Sürücü-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR3",
+    "url": "https://www.fussball.de/spiel/asv-berlin-vfb-berlin-1911-ii/-/spiel/031G0GA4DG000000VS5489BTVVG7L386"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "13:00",
+    "home": "Moabiter FSV",
+    "away": "Friedrichshagener SV",
+    "competition": "Verbandsliga",
+    "complex": "Kunstrasenplatz, Poststadion KR1 (Mete-Eksi-Platz), Lehrter Str. 59, 10557 Berlin",
+    "pitch": "KR1",
+    "url": "https://www.fussball.de/spiel/moabiter-fsv-friedrichshagener-sv/-/spiel/031G0CCGEK000000VS5489BTVVG7L386"
+  }
+]
